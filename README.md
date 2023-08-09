@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="100"/>
+</div>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=system205&style=flat-square&color=blue" alt=""/>
+</div>
+
 <!--
 **system205/system205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
