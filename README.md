@@ -24,7 +24,7 @@
 I'm a Java programmer from Russia.
 - :eyes: **Qualities**: Highly Responsible, Communicative, and Hardworking.
 - :love_you_gesture: **Passion**: Java, Web, and Computer Technologies.
-- :lotus_position_man: **Hobby**: Sport. Swimming, cycling, table tennis.
+- :lotus_position_man: **Hobby**: Swimming, Cycling, Table Tennis!
 
 ---
 
