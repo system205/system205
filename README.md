@@ -35,7 +35,7 @@ I'm a Java programmer from Russia.
 
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=system205&theme=transparent&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=system205&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=system205&layout=donut&theme=transparent&exclude_repo=NLP)](https://github.com/anuraghazra/github-readme-stats))
 
 ---
 
